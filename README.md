@@ -1,1 +1,1 @@
-# TaskManagementSystem
+# TaskManagementSystem is one of the intermediate project i am done. user can register and login where admin can give specific task for the users they can select the different user and give them task. curd is used in every. and user can answer with given task.
